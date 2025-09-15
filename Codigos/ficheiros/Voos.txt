@@ -1,0 +1,4 @@
+destino,regiao,classe,preco (eur),duracao,embarque,porta,companhia
+paris,europa,economica,89,2h15,07:15,a12,air france
+londres,europa,economica,95,2h30,14:45,b03,british airways
+roma,europa,economica,110,2h45,09:30,a08,turkish airlines

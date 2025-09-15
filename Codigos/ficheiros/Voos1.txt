@@ -1,0 +1,91 @@
+destino,regiao,classe,preco (eur),duracao,embarque,porta,companhia
+paris,europa,economica,89,2h15,07:15,a12,air france
+paris,europa,economica,95,2h20,07:30,a14,singapore airlines
+paris,europa,economica,85,2h25,07:45,a16,qatar airways
+paris,europa,economica,92,2h10,07:00,a10,turkish airlines
+paris,europa,economica,88,2h30,08:00,a18,swiss international air lines
+paris,europa,classe executiva,320,2h15,07:15,a12-lounge,air france
+paris,europa,classe executiva,340,2h20,07:30,a14-lounge,singapore airlines
+paris,europa,classe executiva,330,2h25,07:45,a16-lounge,qatar airways
+paris,europa,classe executiva,310,2h10,07:00,a10-lounge,turkish airlines
+paris,europa,classe executiva,350,2h30,08:00,a18-lounge,swiss international air lines
+londres,europa,economica,95,2h30,14:45,b03,british airways
+londres,europa,economica,85,2h35,15:00,b05,qatar airways
+londres,europa,economica,90,2h40,15:15,b07,singapore airlines
+londres,europa,economica,88,2h25,14:30,b01,delta air lines
+londres,europa,economica,100,2h20,14:15,b09,ana all nippon airways
+londres,europa,classe executiva,350,2h30,14:45,b03-lounge,british airways
+londres,europa,classe executiva,330,2h35,15:00,b05-lounge,qatar airways
+londres,europa,classe executiva,360,2h40,15:15,b07-lounge,singapore airlines
+londres,europa,classe executiva,340,2h25,14:30,b01-lounge,delta air lines
+londres,europa,classe executiva,370,2h20,14:15,b09-lounge,ana all nippon airways
+roma,europa,economica,110,2h45,09:30,a08,turkish airlines
+roma,europa,economica,105,2h50,09:45,a10,swiss international air lines
+roma,europa,economica,115,2h40,09:15,a06,emirates
+roma,europa,economica,100,2h55,10:00,a12,etihad airways
+roma,europa,economica,108,2h35,09:00,a04,korean air
+roma,europa,classe executiva,400,2h45,09:30,a08-lounge,turkish airlines
+roma,europa,classe executiva,390,2h50,09:45,a10-lounge,swiss international air lines
+roma,europa,classe executiva,410,2h40,09:15,a06-lounge,emirates
+roma,europa,classe executiva,380,2h55,10:00,a12-lounge,etihad airways
+roma,europa,classe executiva,395,2h35,09:00,a04-lounge,korean air
+nova iorque,america,economica,420,8h10,08:00,d05,delta air lines
+nova iorque,america,economica,410,8h15,08:15,d07,japan airlines
+nova iorque,america,economica,430,8h20,08:30,d09,singapore airlines
+nova iorque,america,economica,400,8h05,07:45,d03,qantas airways
+nova iorque,america,economica,415,8h25,08:45,d11,air france
+nova iorque,america,classe executiva,1200,8h10,08:00,d05-lounge,delta air lines
+nova iorque,america,classe executiva,1250,8h15,08:15,d07-lounge,japan airlines
+nova iorque,america,classe executiva,1300,8h20,08:30,d09-lounge,singapore airlines
+nova iorque,america,classe executiva,1180,8h05,07:45,d03-lounge,qantas airways
+nova iorque,america,classe executiva,1220,8h25,08:45,d11-lounge,air france
+los angeles,america,economica,580,11h30,10:45,e22,korean air
+los angeles,america,economica,560,11h40,11:00,e24,qantas airways
+los angeles,america,economica,570,11h35,10:50,e23,singapore airlines
+los angeles,america,economica,590,11h25,10:30,e21,japan airlines
+los angeles,america,economica,550,11h45,11:15,e25,delta air lines
+los angeles,america,classe executiva,1600,11h30,10:45,e22-lounge,korean air
+los angeles,america,classe executiva,1550,11h40,11:00,e24-lounge,qantas airways
+los angeles,america,classe executiva,1580,11h35,10:50,e23-lounge,singapore airlines
+los angeles,america,classe executiva,1620,11h25,10:30,e21-lounge,japan airlines
+los angeles,america,classe executiva,1520,11h45,11:15,e25-lounge,delta air lines
+bali,asia,economica,112,12h00,23:50,g07,cathay pacific airways
+bali,asia,economica,120,12h15,00:05,g09,emirates
+bali,asia,economica,115,12h05,23:55,g08,qatar airways
+bali,asia,economica,125,12h20,00:10,g10,ana all nippon airways
+bali,asia,economica,110,12h10,00:00,g06,singapore airlines
+bali,asia,classe executiva,450,12h00,23:50,g07-lounge,cathay pacific airways
+bali,asia,classe executiva,470,12h15,00:05,g09-lounge,emirates
+bali,asia,classe executiva,460,12h05,23:55,g08-lounge,qatar airways
+bali,asia,classe executiva,480,12h20,00:10,g10-lounge,ana all nippon airways
+bali,asia,classe executiva,440,12h10,00:00,g06-lounge,singapore airlines
+toquio,asia,economica,780,13h20,06:30,h09,ana all nippon airways
+toquio,asia,economica,800,13h30,06:45,h11,eva air
+toquio,asia,economica,790,13h25,06:35,h10,japan airlines
+toquio,asia,economica,770,13h15,06:20,h08,korean air
+toquio,asia,economica,810,13h35,06:50,h12,qantas airways
+toquio,asia,classe executiva,2200,13h20,06:30,h09-lounge,ana all nippon airways
+toquio,asia,classe executiva,2250,13h30,06:45,h11-lounge,eva air
+toquio,asia,classe executiva,2220,13h25,06:35,h10-lounge,japan airlines
+toquio,asia,classe executiva,2180,13h15,06:20,h08-lounge,korean air
+toquio,asia,classe executiva,2300,13h35,06:50,h12-lounge,qantas airways
+marraquexe,africa,economica,230,3h30,12:15,b07,iberia
+marraquexe,africa,economica,220,3h40,12:30,b09,etihad airways
+marraquexe,africa,economica,225,3h35,12:25,b08,qatar airways
+marraquexe,africa,economica,235,3h25,12:10,b06,turkish airlines
+marraquexe,africa,economica,240,3h45,12:35,b10,air france
+marraquexe,africa,classe executiva,600,3h30,12:15,b07-lounge,iberia
+marraquexe,africa,classe executiva,590,3h40,12:30,b09-lounge,etihad airways
+marraquexe,africa,classe executiva,595,3h35,12:25,b08-lounge,qatar airways
+marraquexe,africa,classe executiva,610,3h25,12:10,b06-lounge,turkish airlines
+marraquexe,africa,classe executiva,620,3h45,12:35,b10-lounge,air france
+cidade do cabo,africa,economica,670,11h15,20:00,f08,hainan airlines
+cidade do cabo,africa,economica,690,11h25,20:15,f10,qatar airways
+cidade do cabo,africa,economica,680,11h20,20:05,f09,emirates
+cidade do cabo,africa,economica,700,11h30,20:20,f11,singapore airlines
+cidade do cabo,africa,economica,660,11h10,19:50,f07,etihad airways
+cidade do cabo,africa,classe executiva,1800,11h15,20:00,f08-lounge,hainan airlines
+cidade do cabo,africa,classe executiva,1850,11h25,20:15,f10-lounge,qatar airways
+cidade do cabo,africa,classe executiva,1820,11h20,20:05,f09-lounge,emirates
+cidade do cabo,africa,classe executiva,1900,11h30,20:20,f11-lounge,singapore airlines
+cidade do cabo,africa,classe executiva,1750,11h10,19:50,f07-lounge,etihad airways
