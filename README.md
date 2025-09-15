@@ -2,7 +2,7 @@
 
 Comunicação entre dois computadores (Cliente <-> Servidor ) através de um sinal infravermelho num contexto de um Aeroporto
 Funcionalidades presentes:
-- 
+- (...)
 
 Interface Cliente
 
